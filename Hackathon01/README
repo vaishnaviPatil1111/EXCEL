@@ -1,1 +1,13 @@
+# Hackathon 01 - Excel Analytics
 
+This folder contains the project submission and source data for **Hackathon 1.0**. The goal of this project is to leverage advanced Excel functionalities to clean, analyze, and visualize data to solve core business problems.
+
+## 📁 Repository Structure
+* **`Hackathon 1.0 Answers.zip`**: Contains the completed Excel workbooks, dashboards, and analytical solutions.
+* **`README`**: Project documentation and overview.
+
+## 🛠️ Key Features & Analysis Included
+* **Data Cleaning & Transformation:** Using Power Query and advanced text/date formulas to prepare raw data.
+* **Advanced Formulas:** Implementing `VLOOKUP`, `XLOOKUP`, `INDEX/MATCH`, and logical functions for deep data retrieval.
+* **Dynamic Dashboards:** Interactive Pivot Tables, Pivot Charts, and Slicers for an intuitive user experience.
+* **Key Insights:** Data-driven recommendations based on the hackathon case study requirements.
